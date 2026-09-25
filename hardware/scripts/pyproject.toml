@@ -1,0 +1,11 @@
+[project]
+name = "hardware"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "cascadio==0.0.18rc0",
+    "pycollada>=0.9.2",
+    "scipy>=1.15.3",
+    "trimesh>=4.11.0",
+    "tyro>=1.0.3",
+]
